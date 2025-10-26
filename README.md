@@ -47,7 +47,7 @@ This repository documents my journey learning Python specifically for DevOps rol
 ## 📫 Connect
 
 - GitHub: [@tsmida-dev](https://github.com/tsmida-dev)
-- LinkedIn: [Tomas Smida](www.linkedin.com/in/tomas-smida-268099354)
+- LinkedIn: [ww.linkedin.com/in/tomas-smida-268099354](https://www.linkedin.com/in/tomas-smida-268099354/)
 - Email: tsmida-dev@outlook.com
 
 ## 📝 License
